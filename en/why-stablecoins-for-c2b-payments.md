@@ -8,6 +8,9 @@ Stablecoins represent a fundamental innovation in digital commerce: combining th
 
 This article examines the five key advantages that make stablecoins particularly well-suited for C2B payment scenarios, supported by real-world implementations and industry data from 2023-2025.
 
+![Global Stablecoin Payment Network](../imgs/why-stablecoins-global-network.jpg)
+*Modern digital payment networks enable instant, borderless stablecoin transactions worldwide*
+
 ---
 
 ## 1. Global, Instant Transactions
@@ -76,6 +79,9 @@ Tether's new Plasma blockchain offers **zero-fee USDT transfers**, explicitly ta
 | Bank Wire (International) | $25-$50 flat | $25 (250%!) | $25 (25%) |
 | Stablecoin (Traditional Chain) | ~$0.10-$2 | $0.10-$2 | $0.10-$2 |
 | Stablecoin (Optimized Chain) | $0.001-$0.01 | $0.001 | $0.001 |
+
+![Transaction Fee Comparison](../imgs/why-stablecoins-fee-comparison.jpg)
+*Stablecoin payments offer dramatically lower transaction costs compared to traditional payment methods*
 
 ### Impact on Business Models
 

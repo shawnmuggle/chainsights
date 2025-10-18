@@ -10,6 +10,9 @@ As stablecoin transaction volumes surge past $15.8 trillion in the first half of
 
 This article examines the business case for stablecoin payments, analyzes regulatory frameworks shaping adoption, explores risk management strategies, and identifies operational changes businesses must implement. Whether you're a global e-commerce platform, regional merchant, or digital services provider, understanding these considerations determines whether stablecoin integration delivers competitive advantage or operational headaches.
 
+![Business Strategy for Stablecoin Payments](../imgs/business-considerations-strategy.jpg)
+*Strategic business considerations for adopting stablecoin payment systems*
+
 ## Table of Contents
 
 1. [The Business Case for Stablecoin Payments](#business-case)
@@ -476,6 +479,9 @@ Most businesses don't implement AML/KYC directly—they partner with compliant p
 - High-risk: Very large transactions, high-risk jurisdictions → enhanced due diligence, source of funds documentation
 
 ---
+
+![Risk Management and Compliance](../imgs/business-considerations-risk-management.jpg)
+*Risk management and compliance frameworks for stablecoin payment systems*
 
 ## <a name="risk-management"></a>Risk Management Strategies
 

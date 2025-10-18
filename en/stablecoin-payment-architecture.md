@@ -8,6 +8,9 @@ Implementing stablecoin payments in consumer-to-business (C2B) flows requires na
 
 Understanding these technical foundations is essential for building robust, scalable, and compliant stablecoin payment systems.
 
+![Stablecoin Payment Architecture](../imgs/payment-architecture-technical-diagram.jpg)
+*Technical architecture of modern stablecoin payment systems*
+
 ---
 
 ## 1. Stablecoin Design and Smart Contracts
@@ -614,6 +617,9 @@ PayPal PYUSD incident (2025): Accidental minting and rapid correction demonstrat
 - Payment stablecoins prioritize compliance
 
 ---
+
+![Multi-Chain Infrastructure](../imgs/payment-architecture-multi-chain.jpg)
+*Multi-chain infrastructure enabling cross-chain stablecoin interoperability*
 
 ## 7. Interoperability and Cross-Chain Architecture
 

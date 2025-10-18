@@ -10,6 +10,9 @@ The stablecoin payment landscape in 2025 is characterized by intense competition
 
 This article analyzes the strategic positioning of seven major players: Stripe, Circle, Tether, Visa, PayPal, Coinbase, and emerging challengers. We examine their distinct approaches—from Stripe's dual-track merchant and infrastructure strategy to Tether's closed-loop ecosystem—assess their competitive advantages and vulnerabilities, and project how the competitive landscape may evolve over the next 24 months.
 
+![Corporate Stablecoin Strategy](../imgs/major-players-corporate-strategy.jpg)
+*Strategic positioning of major players in the competitive stablecoin payments landscape*
+
 ## Table of Contents
 
 1. [The Competitive Landscape](#competitive-landscape)

@@ -10,6 +10,9 @@ The promise of stablecoins for consumer-to-business (C2B) payments hinges on a f
 
 This article explores why abstraction is critical, examines the technical components required for effective implementation, and analyzes how leading platforms are building these crucial layers to bridge the gap between blockchain reality and user expectations.
 
+![Stablecoin Abstraction Layer](../imgs/abstraction-layer-concept.jpg)
+*The abstraction layer simplifies blockchain complexity for seamless user experiences*
+
 ## Table of Contents
 
 1. [Why Abstraction is Critical](#why-abstraction)

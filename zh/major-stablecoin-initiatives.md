@@ -8,7 +8,13 @@
 
 下面挑出六个影响力最大的平台计划,看看它们是怎样改写消费者和企业的稳定币体验。
 
+![稳定币生态系统格局](../imgs/major-initiatives-ecosystem.jpg)
+*推动数字支付创新的主要参与者构成的不断演进的稳定币生态系统*
+
 ---
+
+![区块链支付基础设施](../imgs/major-initiatives-blockchain-infrastructure.jpg)
+*为稳定币支付优化的专用区块链基础设施*
 
 ## 1. PayPal USD (PYUSD): 主流整合
 
@@ -56,6 +62,9 @@ PayPal 下场这件事,让主流商业对稳定币的接受度直接上了新台
 - 期间发生的误铸事件也提醒大家:中心化管控仍在,再保险丝一样关键[^5]
 
 ---
+
+![区块链支付基础设施](../imgs/major-initiatives-blockchain-infrastructure.jpg)
+*为稳定币支付优化的专用区块链基础设施*
 
 ## 2. Stripe的双轨策略:集成 + Tempo区块链
 
@@ -129,6 +138,9 @@ Tempo 背后的支持阵容也很豪华:
 
 ---
 
+![区块链支付基础设施](../imgs/major-initiatives-blockchain-infrastructure.jpg)
+*为稳定币支付优化的专用区块链基础设施*
+
 ## 3. Coinbase x402协议: HTTP原生支付
 
 当别家忙着优化商户收款体验时,Coinbase 选择从更底层入手,尝试把支付直接写进互联网协议里。
@@ -193,6 +205,9 @@ Coinbase和合作伙伴(包括Cloudflare)成立了**x402基金会**,将此作为
 x402 把稳定币推向"互联网原生货币"的角色,兑现了 HTTP 402 微支付这个多年来只停留在设想里的功能。AI 代理愈发常见,标准化的机器到机器付费方式就成了必备基础设施。
 
 ---
+
+![区块链支付基础设施](../imgs/major-initiatives-blockchain-infrastructure.jpg)
+*为稳定币支付优化的专用区块链基础设施*
 
 ## 4. Circle的Arc区块链:垂直整合
 
@@ -264,6 +279,9 @@ Circle 想走的是一条**垂直整合路线**:
 Circle 希望 Arc 变成**企业用稳定币时的高速主干网**,既能补位以太坊等公链的不足,也保留开放生态的灵活度。[^32][^33]
 
 ---
+
+![区块链支付基础设施](../imgs/major-initiatives-blockchain-infrastructure.jpg)
+*为稳定币支付优化的专用区块链基础设施*
 
 ## 5. Tether的Plasma和Stable链:生态系统控制
 
@@ -348,6 +366,9 @@ Tether正在构建一个完整的USDT宇宙:
 
 ---
 
+![区块链支付基础设施](../imgs/major-initiatives-blockchain-infrastructure.jpg)
+*为稳定币支付优化的专用区块链基础设施*
+
 ## 6. 传统支付巨头: Visa & Mastercard
 
 传统支付网络没有袖手旁观——他们正在将稳定币整合到现有基础设施中。
@@ -394,6 +415,9 @@ Mastercard推出了帮助银行和金融科技整合稳定币的计划:[^51]
 
 ---
 
+![区块链支付基础设施](../imgs/major-initiatives-blockchain-infrastructure.jpg)
+*为稳定币支付优化的专用区块链基础设施*
+
 ## 跨计划主题
 
 在所有这些计划中,出现了几个共同模式:
@@ -418,6 +442,9 @@ Mastercard推出了帮助银行和金融科技整合稳定币的计划:[^51]
 
 ---
 
+![区块链支付基础设施](../imgs/major-initiatives-blockchain-infrastructure.jpg)
+*为稳定币支付优化的专用区块链基础设施*
+
 ## 结论:"稳定币战争"
 
 行业分析师将这一竞争格局称为**"稳定币战争"**[^53][^54]——一场定义下一代支付轨道的竞赛。
@@ -440,6 +467,9 @@ Mastercard推出了帮助银行和金融科技整合稳定币的计划:[^51]
 
 ---
 
+![区块链支付基础设施](../imgs/major-initiatives-blockchain-infrastructure.jpg)
+*为稳定币支付优化的专用区块链基础设施*
+
 ## 继续阅读
 
 - [← 上一篇:为什么选择稳定币进行C2B支付](./why-stablecoins-for-c2b-payments.md)
@@ -453,6 +483,9 @@ Mastercard推出了帮助银行和金融科技整合稳定币的计划:[^51]
 - [实施路线图](./implementation-roadmap.md)
 
 ---
+
+![区块链支付基础设施](../imgs/major-initiatives-blockchain-infrastructure.jpg)
+*为稳定币支付优化的专用区块链基础设施*
 
 ## 参考文献
 
@@ -512,5 +545,8 @@ Mastercard推出了帮助银行和金融科技整合稳定币的计划:[^51]
 [^54]: [ChainCatcher – Competitive Analysis of New Stablecoin Chains](https://www.chaincatcher.com/en/article/2025/stablecoin-chain-competition)
 
 ---
+
+![区块链支付基础设施](../imgs/major-initiatives-blockchain-infrastructure.jpg)
+*为稳定币支付优化的专用区块链基础设施*
 
 *Chainsights关于稳定币、支付和C2B商务的通讯系列文章*

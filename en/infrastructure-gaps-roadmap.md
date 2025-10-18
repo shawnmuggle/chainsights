@@ -10,6 +10,9 @@ Despite remarkable progress—stablecoin transaction volumes reaching $15.8 tril
 
 This article identifies the most significant infrastructure gaps hindering stablecoin payment adoption, examines solutions under development, analyzes ecosystem coordination challenges, and projects timelines for closing these gaps. Understanding what's missing—and what's coming—enables businesses, developers, and investors to make informed decisions about stablecoin payment integration and timing.
 
+![Stablecoin Infrastructure Roadmap](../imgs/infrastructure-roadmap-future.jpg)
+*The future roadmap for stablecoin payment infrastructure development*
+
 ## Table of Contents
 
 1. [The State of Stablecoin Infrastructure](#infrastructure-state)
@@ -346,6 +349,9 @@ Important question: Does gas sponsorship create money transmitter liability?
 - **24+ months**: New chain launches default to stablecoin-native gas; legacy chains maintain via paymasters
 
 ---
+
+![Infrastructure Development](../imgs/infrastructure-gaps-development.jpg)
+*Building the missing infrastructure components for mainstream stablecoin adoption*
 
 ## <a name="compliance-modules"></a>Critical Gap 3: Fragmented Compliance Modules
 

@@ -8,6 +8,9 @@ Between 2023 and 2025, the stablecoin payment landscape transformed dramatically
 
 This article examines the six most significant platform initiatives that are reshaping how consumers and businesses transact with stablecoins.
 
+![Stablecoin Ecosystem Landscape](../imgs/major-initiatives-ecosystem.jpg)
+*The evolving stablecoin ecosystem with major players driving innovation in digital payments*
+
 ---
 
 ## 1. PayPal USD (PYUSD): Mainstream Integration
@@ -128,6 +131,9 @@ Beyond accepting stablecoins, Stripe launched "**Open Issuance**" – enabling b
 This represents Stripe's vision of "agentic" AI-driven commerce where autonomous systems transact seamlessly.
 
 ---
+
+![Blockchain Payment Infrastructure](../imgs/major-initiatives-blockchain-infrastructure.jpg)
+*Purpose-built blockchain infrastructure optimized for stablecoin payments*
 
 ## 3. Coinbase x402 Protocol: HTTP-Native Payments
 

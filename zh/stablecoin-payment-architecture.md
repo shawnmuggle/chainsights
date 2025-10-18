@@ -8,6 +8,9 @@
 
 先把底层逻辑理清楚,后续的系统设计才会稳、可扩且合规。
 
+![稳定币支付架构](../imgs/payment-architecture-technical-diagram.jpg)
+*现代稳定币支付系统的技术架构*
+
 ---
 
 ## 1. 稳定币设计和智能合约
@@ -614,6 +617,9 @@ PayPal PYUSD事件(2025年): 意外铸造和快速纠正展示了中心化控制
 - 支付稳定币优先合规
 
 ---
+
+![多链基础设施](../imgs/payment-architecture-multi-chain.jpg)
+*实现跨链稳定币互操作性的多链基础设施*
 
 ## 7. 互操作性和跨链架构
 

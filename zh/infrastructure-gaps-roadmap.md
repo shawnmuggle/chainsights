@@ -10,6 +10,9 @@
 
 本文把这些障碍逐一梳理出来,看看行业里正在推进的解决方案、协调难点以及大致的落地时间,好让企业、开发者、投资人判断什么时候适合把稳定币支付纳入自己的路线图。
 
+![稳定币基础设施路线图](../imgs/infrastructure-roadmap-future.jpg)
+*稳定币支付基础设施发展的未来路线图*
+
 ## 目录
 
 1. [稳定币基础设施现状](#infrastructure-state)
@@ -345,6 +348,9 @@ EIP-4337和EIP-7702支持具有跨链能力的智能合约钱包:
 - **24+个月**: 新链发布默认稳定币原生Gas;传统链通过paymasters维护
 
 ---
+
+![基础设施开发](../imgs/infrastructure-gaps-development.jpg)
+*构建主流稳定币采用所需的缺失基础设施组件*
 
 ## <a name="compliance-modules"></a>关键缺口3: 分散的合规模块
 
