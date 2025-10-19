@@ -4,6 +4,7 @@
 
 [![Language: English](https://img.shields.io/badge/Language-English-blue)](./Overview-EN.md)
 [![Language: 中文](https://img.shields.io/badge/Language-中文-red)](./Overview-ZH.md)
+[![Language: Español](https://img.shields.io/badge/Language-Español-yellow)](./Overview-ES.md)
 
 ## 📖 Start Reading
 
@@ -12,6 +13,9 @@
 
 ### 中文
 **[📚 概览：稳定币与C2B支付的未来](./Overview-ZH.md)**
+
+### Español
+**[📚 Resumen: Stablecoins y el Futuro de los Pagos C2B](./Overview-ES.md)**
 
 ---
 
@@ -80,6 +84,16 @@ This comprehensive research series examines how stablecoins are transforming con
 6. **[基础设施缺口与路线图](./zh/infrastructure-gaps-roadmap.md)**
 7. **[主要参与者的战略定位](./zh/major-players-strategies.md)**
 
+### Artículos en Español (7 Análisis en Profundidad)
+
+1. **[¿Por qué Stablecoins para Pagos C2B?](./es/why-stablecoins-for-c2b-payments.md)**
+2. **[Principales Iniciativas de Stablecoins (2023-2025)](./es/major-stablecoin-initiatives.md)**
+3. **[Arquitectura de Pagos con Stablecoins](./es/stablecoin-payment-architecture.md)**
+4. **[La Capa de Abstracción de Stablecoins](./es/stablecoin-abstraction-layer.md)**
+5. **[Consideraciones Comerciales y Operativas](./es/business-operational-considerations.md)**
+6. **[Brechas de Infraestructura y Hoja de Ruta](./es/infrastructure-gaps-roadmap.md)**
+7. **[Posicionamiento Estratégico de los Principales Actores](./es/major-players-strategies.md)**
+
 ---
 
 ## 📊 Key Statistics
@@ -112,6 +126,7 @@ shawn-chainsights/
 ├── README.md                      # You are here
 ├── Overview-EN.md                 # English overview (start here)
 ├── Overview-ZH.md                 # 中文概览（从这里开始）
+├── Overview-ES.md                 # Resumen en español (empieza aquí)
 │
 ├── en/                            # English articles
 │   ├── why-stablecoins-for-c2b-payments.md
@@ -123,6 +138,15 @@ shawn-chainsights/
 │   └── major-players-strategies.md
 │
 ├── zh/                            # 中文文章
+│   ├── why-stablecoins-for-c2b-payments.md
+│   ├── major-stablecoin-initiatives.md
+│   ├── stablecoin-payment-architecture.md
+│   ├── stablecoin-abstraction-layer.md
+│   ├── business-operational-considerations.md
+│   ├── infrastructure-gaps-roadmap.md
+│   └── major-players-strategies.md
+│
+├── es/                            # Artículos en español
 │   ├── why-stablecoins-for-c2b-payments.md
 │   ├── major-stablecoin-initiatives.md
 │   ├── stablecoin-payment-architecture.md
@@ -196,4 +220,4 @@ Research sources include:
 
 ---
 
-**Start your journey:** [English Overview](./Overview-EN.md) | [中文概览](./Overview-ZH.md)
+**Start your journey:** [English Overview](./Overview-EN.md) | [中文概览](./Overview-ZH.md) | [Resumen en Español](./Overview-ES.md)

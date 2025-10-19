@@ -3,3 +3,4 @@ internal
 
 .env
 images_scripts/
+.DS_Store 
